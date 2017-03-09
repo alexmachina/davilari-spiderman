@@ -1,5 +1,5 @@
 var Category = function (nome, url) {
-  this.Name = nome
+  this.name = nome
   this.Url = url
   this.Products = []
 
